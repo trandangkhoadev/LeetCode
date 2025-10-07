@@ -1,0 +1,26 @@
+1. Array & Hashing
+    Contains Duplicate   	
+    Valid Anagram   	
+    Two Sum   	
+    Group Anagrams   	
+    Top K Frequent Elements   	
+    Encode and Decode Strings   	
+    Product of Array Except Self   	
+    Valid Sudoku   	
+    Longest Consecutive Sequence
+
+2. Two pointer
+    Valid Palindrome   	
+    Two Sum II Input Array Is Sorted   	
+    3Sum   	
+    Container With Most Water   	
+    Trapping Rain Water   
+
+3. Stack
+    Valid Parentheses   	
+    Min Stack   	
+    Evaluate Reverse Polish Notation   	
+    Generate Parentheses   	
+    Daily Temperatures   	
+    Car Fleet   	
+    Largest Rectangle In Histogram   
